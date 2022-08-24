@@ -1,3 +1,3 @@
-# Demo
+# Beginner Projects
 
 Some Description!
